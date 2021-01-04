@@ -193,8 +193,6 @@ The fine registration methods (or local registration) produce highly precise reg
 - DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. ICCV'2019 [[paper]](https://arxiv.org/abs/1905.04153)
 
 
----
-
 ## Datasets
 - [Standford 3DScanning](http://graphics.stanford.edu/data/3Dscanrep/)
 - [3DMatch](http://3dmatch.cs.princeton.edu/)
@@ -204,7 +202,7 @@ The fine registration methods (or local registration) produce highly precise reg
 - [A Benchmark for Point Clouds Registration Algorithms](https://github.com/iralabdisco/point_clouds_registration_benchmark)
 - [WHU-TLS Benchmark](http://3s.whu.edu.cn/ybs/en/benchmark.htm)
 
----
+
 ## Tools
 - [Open3D: A Modern Libray for 3D Data Processing](http://www.open3d.org/docs/release/index.html)
 - [PCL: Point Cloud Library](https://pointclouds.org/)
