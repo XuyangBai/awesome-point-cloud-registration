@@ -45,7 +45,9 @@ The feature-matching based registration algorithms generally follow a two-stage 
 - SK-Net: Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints. AAAI'2020 [[paper]](https://arxiv.org/pdf/2003.14014.pdf)
 - SKD: Unsupervised Keypoint Detecting for Point Clouds using Embedded Saliency Estimation. arxiv'2019 [[paper]](https://arxiv.org/pdf/1912.04943.pdf)
 - Fuzzy Logic and Histogram of Normal Orientation-based 3D Keypoint Detection For Point Clouds. PRL'2020 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S016786552030180X)
+- MaskNet: A Fully-Convolutional Network to Estimate Inlier Points. 3DV'2020 [[paper]](https://arxiv.org/abs/2010.09185) [[code]](https://github.com/vinits5/masknet)
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. arxiv'2020 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
+
 
 Survey:
 - Performance Evaluation of 3D Keypoint Detectors. IJCV'2013 [[paper]](https://doi.org/10.1007/s11263-012-0545-4)
@@ -169,6 +171,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Registration Loss Learning for Deep Probabilistic Point Set Registration. 3DV'2020 [[paper]](https://arxiv.org/abs/2011.02229) [[code]](https://github.com/felja633/RLLReg)
 
 ### Others
+- Gravitational Approach for Point Set Registration. CVPR'2016 [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf)
+- Accelerated Gravitational Point Set Alignment with Altered Physical Laws. ICCV'2019 [[paper]](https://people.mpi-inf.mpg.de/~golyanik/04_DRAFTS/Golyanik_etal_ICCV_2019.pdf)
 - Learning multiview 3D point cloud registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2001.05119) [[code]](https://github.com/zgojcic/3D_multiview_reg)
 - A Dynamical Perspective on Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2005.03190)
 
@@ -179,6 +183,7 @@ The fine registration methods (or local registration) produce highly precise reg
 ### Traditional 
 - Point2Point ICP: A Method for Registration of 3-D Shapes. TPAMI'1992 [[paper]](https://ieeexplore.ieee.org/document/121791)
 - Point2Plane Object Modelling by Registration of Multiple Range Images. TPAMI'1992 [[paper]](http://www.cs.hunter.cuny.edu/~ioannis/chen_medioni_point_plane_1991.pdf)
+- RPM: New Algorithms for 2D and 3D Point Matching: Pose Estimation and Correspondence. [[paper]](http://cmp.felk.cvut.cz/~amavemig/softassign.pdf)
 - Matching of 3-D Curves using Semi-differential Invariants. ICCV'1995 [[paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=466913)
 - The Trimmed Iterative Closest Point Algorithm. 2002 [[paper]](http://www.inf.u-szeged.hu/ssip/2002/download/Chetverikov.pdf)
 - Comparing ICP Variants on Real-World Data Sets. 2013 [[paper]](https://hal.archives-ouvertes.fr/hal-01143458/file/2013_Pomerleau_AutonomousRobots_Comparing.pdf)
