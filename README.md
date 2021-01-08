@@ -173,6 +173,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 ### Others
 - Gravitational Approach for Point Set Registration. CVPR'2016 [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf)
 - Accelerated Gravitational Point Set Alignment with Altered Physical Laws. ICCV'2019 [[paper]](https://people.mpi-inf.mpg.de/~golyanik/04_DRAFTS/Golyanik_etal_ICCV_2019.pdf)
+- Fast Gravitational Approach for Rigid Point Set Registration with Ordinary Differential Equations. arxiv'2020 [[paper]](https://arxiv.org/abs/2009.14005)
 - Learning multiview 3D point cloud registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2001.05119) [[code]](https://github.com/zgojcic/3D_multiview_reg)
 - A Dynamical Perspective on Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2005.03190)
 
@@ -213,3 +214,4 @@ The fine registration methods (or local registration) produce highly precise reg
 - [PCL: Point Cloud Library](https://pointclouds.org/)
 - [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch Points 3D](https://github.com/nicolas-chaulet/torch-points3d)
+- [probreg](https://github.com/neka-nat/probreg)
