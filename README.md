@@ -165,6 +165,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - A Probabilistic Framework for Color-Based Point Set Registration. CVPR'2016 [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Danelljan_A_Probabilistic_Framework_CVPR_2016_paper.pdf)
 - Density Adaptive Point Set Registration. CVPR'2018 [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lawin_Density_Adaptive_Point_CVPR_2018_paper.pdf) [[code]](https://github.com/felja633/DARE)
 - HGMR: Hierarchical Gaussian Mixtures for Adaptive 3D Registration. ECCV'2018 [[paper]](http://jankautz.com/publications/hGMM_ECCV18.pdf)
+- Robust Feature-Based Point Registration Using Directional Mixture Model. arxiv'2019 [[paper]](https://arxiv.org/pdf/1912.05016.pdf)
 - FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization. CVPR'2019 [[paper]](https://arxiv.org/abs/1811.10136) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/)
 - PointGMM: a Neural GMM Network for Point Clouds. CVPR'2020 [[paper]](https://arxiv.org/abs/2003.13326) [[code]](https://github.com/amirhertz/pointgmm)
 - DeepGMR: Learning Latent Gaussian Mixture Models for Registration. ECCV'2020 [[paper]](https://arxiv.org/abs/2008.09088) [[code]](https://github.com/wentaoyuan/deepgmr)
@@ -194,6 +195,8 @@ The fine registration methods (or local registration) produce highly precise reg
 - Point Clouds Registration with Probabilistic Data Association. IROS'2016 [[paper]](https://github.com/ethz-asl/ipda/wiki/0383.pdf) [[code]](https://github.com/ethz-asl/robust_point_cloud_registration)
 - GH-ICP：Iterative Closest Point Algorithm with Global Optimal Matching and Hybrid Metric. 3DV'2018 [[paper]](https://ieeexplore.ieee.org/abstract/document/8490968) [[code]](https://github.com/YuePanEdward/GH-ICP)
 - NDT: The Normal Distributions Transform: A New Approach To Laser Scan Matching. IROS'2003 [[paper]](http://hdl.handle.net/10068/262019)
+- Best Buddies Registration for Point Clouds. ACCV'2020 [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Drory_Best_Buddies_Registration_for_Point_Clouds_ACCV_2020_paper.pdf)
+- Provably Approximated ICP. arxiv'2021 [[paper]](https://arxiv.org/pdf/2101.03588.pdf)
 
 ### Learning-based
 - DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. ICCV'2019 [[paper]](https://arxiv.org/abs/1905.04153)
