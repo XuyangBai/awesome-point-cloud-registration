@@ -170,6 +170,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - PointGMM: a Neural GMM Network for Point Clouds. CVPR'2020 [[paper]](https://arxiv.org/abs/2003.13326) [[code]](https://github.com/amirhertz/pointgmm)
 - DeepGMR: Learning Latent Gaussian Mixture Models for Registration. ECCV'2020 [[paper]](https://arxiv.org/abs/2008.09088) [[code]](https://github.com/wentaoyuan/deepgmr)
 - Registration Loss Learning for Deep Probabilistic Point Set Registration. 3DV'2020 [[paper]](https://arxiv.org/abs/2011.02229) [[code]](https://github.com/felja633/RLLReg)
+- A Termination Criterion for Probabilistic PointClouds Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2010.04979.pdf)
 
 ### Others
 - Gravitational Approach for Point Set Registration. CVPR'2016 [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf)
@@ -177,6 +178,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Fast Gravitational Approach for Rigid Point Set Registration with Ordinary Differential Equations. arxiv'2020 [[paper]](https://arxiv.org/abs/2009.14005)
 - Learning multiview 3D point cloud registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2001.05119) [[code]](https://github.com/zgojcic/3D_multiview_reg)
 - A Dynamical Perspective on Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2005.03190)
+- Plane Pair Matching for Efficient 3D View Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2001.07058.pdf)
 
 ## Fine Registration
 
