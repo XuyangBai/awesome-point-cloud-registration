@@ -176,6 +176,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Gravitational Approach for Point Set Registration. CVPR'2016 [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf)
 - Accelerated Gravitational Point Set Alignment with Altered Physical Laws. ICCV'2019 [[paper]](https://people.mpi-inf.mpg.de/~golyanik/04_DRAFTS/Golyanik_etal_ICCV_2019.pdf)
 - Fast Gravitational Approach for Rigid Point Set Registration with Ordinary Differential Equations. arxiv'2020 [[paper]](https://arxiv.org/abs/2009.14005)
+- Minimal Solvers for Mini-Loop Closures in 3D Multi-Scan Alignment. CVPR'2019 [[paper]](http://arxiv.org/pdf/1904.03941)
+- Minimal Solvers for 3D Scan Alignment With Pairs of Intersecting Lines. CVPR'2020 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mateus_Minimal_Solvers_for_3D_Scan_Alignment_With_Pairs_of_Intersecting_CVPR_2020_paper.pdf)
 - Learning multiview 3D point cloud registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2001.05119) [[code]](https://github.com/zgojcic/3D_multiview_reg)
 - A Dynamical Perspective on Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2005.03190)
 - Plane Pair Matching for Efficient 3D View Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2001.07058.pdf)
