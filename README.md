@@ -77,8 +77,9 @@ Survey:
 - LRF-Net- Learning Local Reference Frames for 3D Local Shape Description and Matching. arxiv'2020 [[paper]](https://arxiv.org/abs/2001.07832)
 - DH3D: Deep Hierarchical 3D Descriptors for Robust Large-Scale 6DoF Relocalization. ECCV'2020 [[paper]](https://arxiv.org/pdf/2007.09217.pdf) [[code]](https://github.com/JuanDuGit/DH3D)
 - Distinctive 3D local deep descriptors. arxiv'2020 [[paper]](https://arxiv.org/abs/2009.00258) [[code]](https://github.com/fabiopoiesi/dip)
-- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2011.12149) [[code]](https://github.com/QingyongHu/SpinNet)
-- PREDATOR: Registration of 3D Point Clouds with Low Overlap. arxiv'2020 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
+- SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR'2021 [[paper]](https://arxiv.org/abs/2011.12149) [[code]](https://github.com/QingyongHu/SpinNet)
+- PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR'2021 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
+- Self-supervised Geometric Perception. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.03114) [[code]](https://github.com/theNded/SGP)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -112,6 +113,7 @@ Learning based (including 2D outlier rejection methods)
 - 3DRegNet: A Deep Neural Network for 3D Point Registration. CVPR'2020 [[paper]](https://arxiv.org/abs/1904.01701) [[code]](https://github.com/goncalo120/3DRegNet)
 - Deep Global Registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2004.11540) [[code]](https://github.com/chrischoy/DeepGlobalRegistration)
 - 3D Correspondence Grouping with Compatibility Features. arxiv'2020 [[paper]](https://arxiv.org/pdf/2007.10570.pdf)
+- PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency CVPR'2021 [[paper]](https://arxiv.org/abs/2103.05465) [[code]](https://github.com/XuyangBai/PointDSC)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
@@ -147,7 +149,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Iterative Distance-Aware Similarity Matrix Convolution with Mutual-Supervised Point Elimination for Efficient Point Cloud Registration. ECCV'2020 [[paper]](http://arxiv.org/abs/1910.10328) [[code]](https://github.com/jiahaowork/idam)
 - Self-supervised Point Set Local Descriptors for Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2003.05199.pdf)
 - Learning 3D-3D Correspondences for One-shot Partial-to-partial Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2006.04523.pdf)
-
+- Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.04256) [[code]](https://github.com/fukexue/RGM)
 
 ### Randomized 
 
