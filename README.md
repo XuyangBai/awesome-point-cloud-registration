@@ -80,6 +80,7 @@ Survey:
 - SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration. CVPR'2021 [[paper]](https://arxiv.org/abs/2011.12149) [[code]](https://github.com/QingyongHu/SpinNet)
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR'2021 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
 - Self-supervised Geometric Perception. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.03114) [[code]](https://github.com/theNded/SGP)
+- 3D Point Cloud Registration with Multi-Scale Architecture and Self-supervised Fine-tuning. arxiv'2021 [[paper]](https://arxiv.org/abs/2103.14533) [[code]](https://github.com/humanpose1/MS-SVConv)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -173,6 +174,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - DeepGMR: Learning Latent Gaussian Mixture Models for Registration. ECCV'2020 [[paper]](https://arxiv.org/abs/2008.09088) [[code]](https://github.com/wentaoyuan/deepgmr)
 - Registration Loss Learning for Deep Probabilistic Point Set Registration. 3DV'2020 [[paper]](https://arxiv.org/abs/2011.02229) [[code]](https://github.com/felja633/RLLReg)
 - A Termination Criterion for Probabilistic PointClouds Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2010.04979.pdf)
+- LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2103.15039.pdf)
 
 ### Others
 - Gravitational Approach for Point Set Registration. CVPR'2016 [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf)
