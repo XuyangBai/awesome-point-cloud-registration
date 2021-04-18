@@ -151,6 +151,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Self-supervised Point Set Local Descriptors for Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2003.05199.pdf)
 - Learning 3D-3D Correspondences for One-shot Partial-to-partial Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2006.04523.pdf)
 - Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.04256) [[code]](https://github.com/fukexue/RGM)
+- RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2^D-Tree Representation. CVPR'2021 [[paper]](https://arxiv.org/pdf/2104.05328.pdf)
 
 ### Randomized 
 
