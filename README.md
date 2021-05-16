@@ -103,7 +103,7 @@ Survey:
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers. NeurIPS'2020 [[paper]](https://arxiv.org/abs/2006.06769)
 - SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences. CVPR'2019 [[paper]](https://arxiv.org/abs/1904.03483) [[code]](https://github.com/intellhave/SDRSAC)
 - Robust Low-Overlap 3D Point Cloud Registration for Outlier Rejection. ICRA'2019 [[paper]](https://arpg.colorado.edu/papers/hmrf_icp.pdf)
-
+- ICOS: Efficient and Highly Robust Rotation Search and Point Cloud Registration with Correspondences. arxiv'2021 [[paper]](https://arxiv.org/pdf/2104.14763.pdf)
 
 Learning based (including 2D outlier rejection methods)
 - Learning to Find Good Correspondences. CVPR'2018 [[paper]](https://arxiv.org/abs/1711.05971) [[code]](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -134,7 +134,8 @@ Survey
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints. arxiv'2019 [[paper]](https://arxiv.org/pdf/1902.01534.pdf)
 - ROBIN: a Graph-Theoretic Approach to Reject Outliers in Robust Estimation using Invariants. arxiv'2020 [[paper]](https://arxiv.org/abs/2011.03659)
 - CLIPPER A Graph-Theoretic Framework for Robust Data Association. arxiv'2020 [[paper]](https://arxiv.org/pdf/2011.10202.pdf)
-
+- PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency CVPR'2021 [[paper]](https://arxiv.org/abs/2103.05465) [[code]](https://github.com/XuyangBai/PointDSC)
+- Pairwise Point Cloud Registration Using Graph Matching and Rotation-invariant Features. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02151.pdf)
 
 
 ### End-to-End
@@ -152,6 +153,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Learning 3D-3D Correspondences for One-shot Partial-to-partial Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2006.04523.pdf)
 - Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.04256) [[code]](https://github.com/fukexue/RGM)
 - RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2^D-Tree Representation. CVPR'2021 [[paper]](https://arxiv.org/pdf/2104.05328.pdf)
+- Deep Weighted Consensus (DWC) Dense correspondence confidence maps for 3D shape registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02714.pdf)
 
 ### Randomized 
 
