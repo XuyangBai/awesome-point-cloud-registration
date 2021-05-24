@@ -81,6 +81,7 @@ Survey:
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. CVPR'2021 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
 - Self-supervised Geometric Perception. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.03114) [[code]](https://github.com/theNded/SGP)
 - 3D Point Cloud Registration with Multi-Scale Architecture and Self-supervised Fine-tuning. arxiv'2021 [[paper]](https://arxiv.org/abs/2103.14533) [[code]](https://github.com/humanpose1/MS-SVConv)
+- Generalisable and Distinctive (GeDi) 3D local deep descriptors for point cloud registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.10382.pdf) [[code]](https://github.com/fabiopoiesi/gedi)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
