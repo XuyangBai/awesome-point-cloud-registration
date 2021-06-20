@@ -155,6 +155,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Robust Point Cloud Registration Framework Based on Deep Graph Matching. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.04256) [[code]](https://github.com/fukexue/RGM)
 - RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2^D-Tree Representation. CVPR'2021 [[paper]](https://arxiv.org/pdf/2104.05328.pdf)
 - Deep Weighted Consensus (DWC) Dense correspondence confidence maps for 3D shape registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02714.pdf)
+- OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2103.00937.pdf)
+- FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2106.03479.pdf)
 
 ### Randomized 
 
