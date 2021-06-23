@@ -82,6 +82,7 @@ Survey:
 - Self-supervised Geometric Perception. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.03114) [[code]](https://github.com/theNded/SGP)
 - 3D Point Cloud Registration with Multi-Scale Architecture and Self-supervised Fine-tuning. arxiv'2021 [[paper]](https://arxiv.org/abs/2103.14533) [[code]](https://github.com/humanpose1/MS-SVConv)
 - Generalisable and Distinctive (GeDi) 3D local deep descriptors for point cloud registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.10382.pdf) [[code]](https://github.com/fabiopoiesi/gedi)
+- Neighborhood Normalization for Robust Geometric Feature Learning. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Neighborhood_Normalization_for_Robust_Geometric_Feature_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/lppllppl920/NeighborhoodNormalization-Pytorch)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -157,6 +158,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Deep Weighted Consensus (DWC) Dense correspondence confidence maps for 3D shape registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02714.pdf)
 - OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2103.00937.pdf)
 - FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2106.03479.pdf)
+- PointNetLK Revisited. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_PointNetLK_Revisited_CVPR_2021_paper.pdf)
 
 ### Randomized 
 
