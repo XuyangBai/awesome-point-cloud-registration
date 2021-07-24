@@ -162,6 +162,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2106.03479.pdf)
 - PointNetLK Revisited. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_PointNetLK_Revisited_CVPR_2021_paper.pdf)
 - Point Cloud Registration using Representative Overlapping Points. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.02583.pdf) [[code]](https://github.com/zhulf0804/ROPNet)
+- Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.10296.pdf)
 
 ### Randomized 
 
