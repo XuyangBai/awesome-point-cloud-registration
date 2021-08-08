@@ -85,12 +85,16 @@ Survey:
 - Neighborhood Normalization for Robust Geometric Feature Learning. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Neighborhood_Normalization_for_Robust_Geometric_Feature_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/lppllppl920/NeighborhoodNormalization-Pytorch)
 - UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR'2021 [[paper]](https://arxiv.org/abs/2102.11870) [[code]](https://github.com/mbanani/unsupervisedRR)
 - Bootstrap Your Own Correspondences. arxiv'2021 [[paper]](https://arxiv.org/abs/2106.00677) [[code]](https://github.com/mbanani/byoc)
+- UPDesc: Unsupervised Point Descriptor Learning for Robust Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2108.02740)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
 - Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. ICIP'2019 [[paper]](https://arxiv.org/abs/1907.00233)
 
 #### Outlier Rejection
+
+> We also include the algorithms designed for finding matching between keypoints given descriptors (which replaces nearest-neighbor-searching) in this section.
+
 - RANSAC: Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography. 1981 [[paper]](http://www.cs.ait.ac.th/~mdailey/cvreadings/Fischler-RANSAC.pdf)
 - Locally Optimized RANSAC. 2003 [[paper]](ftp://cmp.felk.cvut.cz/pub/cmp/articles/matas/chum-dagm03.pdf)
 - Graph-cut RANSAC. CVPR'2018 [[paper]](https://arxiv.org/abs/1706.00984) [[code]](https://github.com/danini/graph-cut-ransac)
@@ -118,7 +122,10 @@ Learning based (including 2D outlier rejection methods)
 - 3DRegNet: A Deep Neural Network for 3D Point Registration. CVPR'2020 [[paper]](https://arxiv.org/abs/1904.01701) [[code]](https://github.com/goncalo120/3DRegNet)
 - Deep Global Registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2004.11540) [[code]](https://github.com/chrischoy/DeepGlobalRegistration)
 - 3D Correspondence Grouping with Compatibility Features. arxiv'2020 [[paper]](https://arxiv.org/pdf/2007.10570.pdf)
-- PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency CVPR'2021 [[paper]](https://arxiv.org/abs/2103.05465) [[code]](https://github.com/XuyangBai/PointDSC)
+- PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency. CVPR'2021 [[paper]](https://arxiv.org/abs/2103.05465) [[code]](https://github.com/XuyangBai/PointDSC)
+- StickyPillars: Robust and Efficient Feature Matching on Point Clouds using Graph Neural Networks. CVPR'2021 [[paper]](https://arxiv.org/abs/2002.03983)
+- HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2107.11992.pdf) [[code]](https://github.com/ispc-lab/HRegNet)
+- Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484762)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
@@ -163,6 +170,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - PointNetLK Revisited. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_PointNetLK_Revisited_CVPR_2021_paper.pdf)
 - Point Cloud Registration using Representative Overlapping Points. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.02583.pdf) [[code]](https://github.com/zhulf0804/ROPNet)
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.10296.pdf)
+- Geometry Guided Network for Point Cloud Registration. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484764)
 
 ### Randomized 
 
