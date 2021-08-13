@@ -171,6 +171,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Point Cloud Registration using Representative Overlapping Points. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.02583.pdf) [[code]](https://github.com/zhulf0804/ROPNet)
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.10296.pdf)
 - Geometry Guided Network for Point Cloud Registration. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484764)
+- (Just) A Spoonful of Refinements Helps the Registration Error Go Down. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.03257.pdf) [[code]](https://github.com/SergioRAgostinho/just-a-spoonful)
 
 ### Randomized 
 
