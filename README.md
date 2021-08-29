@@ -172,6 +172,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.10296.pdf)
 - Geometry Guided Network for Point Cloud Registration. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484764)
 - (Just) A Spoonful of Refinements Helps the Registration Error Go Down. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.03257.pdf) [[code]](https://github.com/SergioRAgostinho/just-a-spoonful)
+- A Robust Loss for Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.11682.pdf)
 
 ### Randomized 
 
@@ -206,6 +207,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Learning multiview 3D point cloud registration. CVPR'2020 [[paper]](https://arxiv.org/abs/2001.05119) [[code]](https://github.com/zgojcic/3D_multiview_reg)
 - A Dynamical Perspective on Point Cloud Registration. arxiv'2020 [[paper]](https://arxiv.org/abs/2005.03190)
 - Plane Pair Matching for Efficient 3D View Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2001.07058.pdf)
+- On Bundle Adjustment for Multiview Point Cloud Registration. RA-L'2021 [[paper]](https://arxiv.org/pdf/2108.02976.pdf)
 
 ## Fine Registration
 
