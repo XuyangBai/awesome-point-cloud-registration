@@ -86,6 +86,8 @@ Survey:
 - UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR'2021 [[paper]](https://arxiv.org/abs/2102.11870) [[code]](https://github.com/mbanani/unsupervisedRR)
 - Bootstrap Your Own Correspondences. arxiv'2021 [[paper]](https://arxiv.org/abs/2106.00677) [[code]](https://github.com/mbanani/byoc)
 - UPDesc: Unsupervised Point Descriptor Learning for Robust Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2108.02740)
+- You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. ICCV'2021 [[paper]](https://arxiv.org/abs/2109.00182) [[code]](https://github.com/HpWang-whu/YOHO)
+
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -126,6 +128,7 @@ Learning based (including 2D outlier rejection methods)
 - StickyPillars: Robust and Efficient Feature Matching on Point Clouds using Graph Neural Networks. CVPR'2021 [[paper]](https://arxiv.org/abs/2002.03983)
 - HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2107.11992.pdf) [[code]](https://github.com/ispc-lab/HRegNet)
 - Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484762)
+- Deep Hough Voting for Robust Global Registration. ICCV'2021 [[paper]](http://jaesik.info/publications/data/21_iccv2.pdf)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
