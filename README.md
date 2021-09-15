@@ -176,6 +176,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Geometry Guided Network for Point Cloud Registration. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484764)
 - (Just) A Spoonful of Refinements Helps the Registration Error Go Down. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.03257.pdf) [[code]](https://github.com/SergioRAgostinho/just-a-spoonful)
 - A Robust Loss for Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.11682.pdf)
+- Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2109.06619.pdf) [[code]](https://github.com/Jiang-HB/CEMNet)
 
 ### Randomized 
 
