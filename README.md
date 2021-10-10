@@ -177,6 +177,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - (Just) A Spoonful of Refinements Helps the Registration Error Go Down. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.03257.pdf) [[code]](https://github.com/SergioRAgostinho/just-a-spoonful)
 - A Robust Loss for Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2108.11682.pdf)
 - Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2109.06619.pdf) [[code]](https://github.com/Jiang-HB/CEMNet)
+- DeepBBS: Deep Best Buddies for Point Cloud Registration. 3DV'2021 [[paper]](https://arxiv.org/pdf/2110.03016.pdf) [[code]](https://github.com/itanhe/DeepBBS)
+- PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds. ICCV'2021 [[paper]](https://arxiv.org/pdf/2110.01269.pdf) [[code]](https://github.com/valeoai/PCAM)
 
 ### Randomized 
 
