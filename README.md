@@ -88,8 +88,8 @@ Survey:
 - UPDesc: Unsupervised Point Descriptor Learning for Robust Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2108.02740)
 - You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. ICCV'2021 [[paper]](https://arxiv.org/abs/2109.00182) [[code]](https://github.com/HpWang-whu/YOHO)
 - P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_P2-Net_Joint_Description_and_Detection_of_Local_Features_for_Pixel_ICCV_2021_paper.pdf)
-- Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. ICCV"2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
-
+- Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
+- CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration. NeurIPS'2021 [[paper]](https://arxiv.org/pdf/2110.14076.pdf) [[code]](https://github.com/haoyu94/Coarse-to-fine-correspondences)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -131,6 +131,7 @@ Learning based (including 2D outlier rejection methods)
 - HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration. ICCV'2021 [[paper]](https://arxiv.org/pdf/2107.11992.pdf) [[code]](https://github.com/ispc-lab/HRegNet)
 - Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484762)
 - Deep Hough Voting for Robust Global Registration. ICCV'2021 [[paper]](http://jaesik.info/publications/data/21_iccv2.pdf)
+- End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2110.15250.pdf)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
