@@ -132,6 +132,7 @@ Learning based (including 2D outlier rejection methods)
 - Keypoint Matching for Point Cloud Registration using Multiplex Dynamic Graph Attention Networks. RA-L'2021 [[paper]](https://ieeexplore.ieee.org/abstract/document/9484762)
 - Deep Hough Voting for Robust Global Registration. ICCV'2021 [[paper]](http://jaesik.info/publications/data/21_iccv2.pdf)
 - End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2110.15250.pdf)
+- TriVoC: Efficient Voting-based Consensus Maximization for Robust Point Cloud Registration with Extreme Outlier Ratios. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.00657)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
