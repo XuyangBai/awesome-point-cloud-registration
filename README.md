@@ -90,6 +90,7 @@ Survey:
 - P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_P2-Net_Joint_Description_and_Detection_of_Local_Features_for_Pixel_ICCV_2021_paper.pdf)
 - Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
 - CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration. NeurIPS'2021 [[paper]](https://arxiv.org/pdf/2110.14076.pdf) [[code]](https://github.com/haoyu94/Coarse-to-fine-correspondences)
+- IMFNet: Interpretable Multimodal Fusion for Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2111.09624.pdf)
 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
