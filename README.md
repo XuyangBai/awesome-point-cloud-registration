@@ -91,7 +91,8 @@ Survey:
 - Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
 - CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration. NeurIPS'2021 [[paper]](https://arxiv.org/pdf/2110.14076.pdf) [[code]](https://github.com/haoyu94/Coarse-to-fine-correspondences)
 - IMFNet: Interpretable Multimodal Fusion for Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2111.09624.pdf)
-
+- Lepard: Learning partial point cloud matching in rigid and deformable scenes. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12591) [[code]](https://github.com/rabbityl/lepard)
+ 
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
 - Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. ICIP'2019 [[paper]](https://arxiv.org/abs/1907.00233)
@@ -186,6 +187,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds. ICCV'2021 [[paper]](https://arxiv.org/pdf/2110.01269.pdf) [[code]](https://github.com/valeoai/PCAM)
 - Feature Interactive Representation for Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Feature_Interactive_Representation_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
 - DeepPRO: Deep Partial Point Cloud Registration of Objects. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_DeepPRO_Deep_Partial_Point_Cloud_Registration_of_Objects_ICCV_2021_paper.pdf)
+- What Stops Learning-based 3D Registration from Working in the Real World? arxiv'2021 [[paper]](https://arxiv.org/abs/2111.10399)
 
 ### Randomized 
 
@@ -222,6 +224,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Plane Pair Matching for Efficient 3D View Registration. arxiv'2020 [[paper]](https://arxiv.org/pdf/2001.07058.pdf)
 - On Bundle Adjustment for Multiview Point Cloud Registration. RA-L'2021 [[paper]](https://arxiv.org/pdf/2108.02976.pdf)
 - Provably Approximated Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)
+- GenReg: Deep Generative Method for Fast Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.11783)
+- Multiway Non-rigid Point Cloud Registration via Learned Functional Map Synchronization. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12878)
 
 ## Fine Registration
 
