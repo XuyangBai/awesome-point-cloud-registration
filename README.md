@@ -92,6 +92,7 @@ Survey:
 - CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration. NeurIPS'2021 [[paper]](https://arxiv.org/pdf/2110.14076.pdf) [[code]](https://github.com/haoyu94/Coarse-to-fine-correspondences)
 - IMFNet: Interpretable Multimodal Fusion for Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2111.09624.pdf)
 - Lepard: Learning partial point cloud matching in rigid and deformable scenes. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12591) [[code]](https://github.com/rabbityl/lepard)
+- Fast and Robust Registration of Partially Overlapping Point Clouds. RA-L'2021 [[paper]](https://arxiv.org/pdf/2112.09922.pdf) [[code]](https://github.com/eduardohenriquearnold/fastreg)
  
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
@@ -227,6 +228,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Provably Approximated Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jubran_Provably_Approximated_Point_Cloud_Registration_ICCV_2021_paper.pdf)
 - GenReg: Deep Generative Method for Fast Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.11783)
 - Multiway Non-rigid Point Cloud Registration via Learned Functional Map Synchronization. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12878)
+- DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration. BMVC'2021 [[paper]](https://arxiv.org/abs/2112.09938)
+
 
 ## Fine Registration
 
