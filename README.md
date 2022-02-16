@@ -93,6 +93,8 @@ Survey:
 - IMFNet: Interpretable Multimodal Fusion for Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2111.09624.pdf)
 - Lepard: Learning partial point cloud matching in rigid and deformable scenes. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12591) [[code]](https://github.com/rabbityl/lepard)
 - Fast and Robust Registration of Partially Overlapping Point Clouds. RA-L'2021 [[paper]](https://arxiv.org/pdf/2112.09922.pdf) [[code]](https://github.com/eduardohenriquearnold/fastreg)
+- Geometric Transformer for Fast and Robust Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/abs/2202.06688) [[code]](https://github.com/qinzheng93/GeoTransformer)
+
  
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
