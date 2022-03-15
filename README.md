@@ -85,7 +85,7 @@ Survey:
 - Neighborhood Normalization for Robust Geometric Feature Learning. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Neighborhood_Normalization_for_Robust_Geometric_Feature_Learning_CVPR_2021_paper.pdf) [[code]](https://github.com/lppllppl920/NeighborhoodNormalization-Pytorch)
 - UnsupervisedR&R: Unsupervised Point Cloud Registration via Differentiable Rendering. CVPR'2021 [[paper]](https://arxiv.org/abs/2102.11870) [[code]](https://github.com/mbanani/unsupervisedRR)
 - Bootstrap Your Own Correspondences. ICCV'2021 [[paper]](https://arxiv.org/abs/2106.00677) [[code]](https://github.com/mbanani/byoc)
-- UPDesc: Unsupervised Point Descriptor Learning for Robust Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2108.02740)
+- WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration. TVCG'2022 [[paper]](https://arxiv.org/abs/2108.02740) [[code]](https://github.com/craigleili/WSDesc)
 - You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors. ICCV'2021 [[paper]](https://arxiv.org/abs/2109.00182) [[code]](https://github.com/HpWang-whu/YOHO)
 - P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_P2-Net_Joint_Description_and_Detection_of_Local_Features_for_Pixel_ICCV_2021_paper.pdf)
 - Distinctiveness oriented Positional Equilibrium for Point Cloud Registration. ICCV'2021 [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Min_Distinctiveness_Oriented_Positional_Equilibrium_for_Point_Cloud_Registration_ICCV_2021_paper.pdf)
@@ -122,6 +122,7 @@ Survey:
 - Robust Low-Overlap 3D Point Cloud Registration for Outlier Rejection. ICRA'2019 [[paper]](https://arpg.colorado.edu/papers/hmrf_icp.pdf)
 - ICOS: Efficient and Highly Robust Rotation Search and Point Cloud Registration with Correspondences. arxiv'2021 [[paper]](https://arxiv.org/pdf/2104.14763.pdf)
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2202.10579.pdf)
+- A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022 [[paper]](https://arxiv.org/pdf/2203.06612.pdf) [[code]](https://github.com/url-kaist/quatro)
 
 Learning based (including 2D outlier rejection methods)
 - Learning to Find Good Correspondences. CVPR'2018 [[paper]](https://arxiv.org/abs/1711.05971) [[code]](https://github.com/vcg-uvic/learned-correspondence-release)
