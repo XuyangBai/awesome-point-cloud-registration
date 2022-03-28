@@ -198,6 +198,9 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - What Stops Learning-based 3D Registration from Working in the Real World? arxiv'2021 [[paper]](https://arxiv.org/abs/2111.10399)
 - Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction. arxiv'2021 [[paper]](https://arxiv.org/pdf/2112.09385.pdf) [[code]](https://github.com/CGuangyan-BIT/DIT)
 - Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. AAAI'2022 [[paper]](https://arxiv.org/pdf/2202.11292.pdf)
+- VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2203.13241.pdf)
+- REGTR: End-to-end Point Cloud Correspondences with Transformers. CVPR'2022 [[paper]]() [[code]](https://github.com/yewzijian/RegTR)
+
 
 ### Randomized 
 
