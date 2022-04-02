@@ -123,6 +123,7 @@ Survey:
 - ICOS: Efficient and Highly Robust Rotation Search and Point Cloud Registration with Correspondences. arxiv'2021 [[paper]](https://arxiv.org/pdf/2104.14763.pdf)
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2202.10579.pdf)
 - A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022 [[paper]](https://arxiv.org/pdf/2203.06612.pdf) [[code]](https://github.com/url-kaist/quatro)
+- SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. CVPR'2022 [[paper]](https://arxiv.org/abs/2203.14453) [[code]](https://github.com/ZhiChen902/SC2-PCR)
 
 Learning based (including 2D outlier rejection methods)
 - Learning to Find Good Correspondences. CVPR'2018 [[paper]](https://arxiv.org/abs/1711.05971) [[code]](https://github.com/vcg-uvic/learned-correspondence-release)
