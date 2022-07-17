@@ -35,8 +35,8 @@ The feature-matching based registration algorithms generally follow a two-stage 
 #### Keypoint Detection
 
 - HKS: A Concise and Provably Informative Multi‐Scale Signature Based on Heat Diffusion. CGF'2009 [[paper]](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Sun09.pdf)
-- Harris3D: a robust extension of the harris operator for interest point detection on 3D meshes. VC'2011 [[paper]](http://repositorio.conicyt.cl/themes/Mirage2/tutorial/guia_busquedas_avanzadas.pdf)
-- Intrinsic shape signatures: A shape descriptor for 3D object recognition. ICCV'2012 [[paper]](https://www.computer.org/csdl/proceedings/iccvw/2009/4442/00/05457637.pdf)
+- Harris3D: a robust extension of the harris operator for interest point detection on 3D meshes. VC'2011 [[paper]](http://www.ivan-sipiran.com/papers/SB11b.pdf)
+- Intrinsic shape signatures: A shape descriptor for 3D object recognition. ICCV'2009 [[paper]](https://www.computer.org/csdl/proceedings/iccvw/2009/4442/00/05457637.pdf)
 - Learning a Descriptor-Specific 3D Keypoint Detector. ICCV'2015 [[paper]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Salti_Learning_a_Descriptor-Specific_ICCV_2015_paper.pdf)
 - 3DFeat-Net: Weakly Supervised Local 3D Features for Point Cloud Registration. ECCV'2018 [[paper]](https://arxiv.org/pdf/1807.09413.pdf) [[code]](https://github.com/yewzijian/3DFeatNet)
 - USIP: Unsupervised Stable Interest Point Detection from 3D Point Clouds. ICCV'2019 [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_USIP_Unsupervised_Stable_Interest_Point_Detection_From_3D_Point_Clouds_ICCV_2019_paper.pdf) [[code]](https://github.com/lijx10/USIP)
@@ -256,12 +256,14 @@ The fine registration methods (or local registration) produce highly precise reg
 - Comparing ICP Variants on Real-World Data Sets. 2013 [[paper]](https://hal.archives-ouvertes.fr/hal-01143458/file/2013_Pomerleau_AutonomousRobots_Comparing.pdf)
 - Generalized-ICP. RSS'2009 [[paper]](https://doi.org/10.15607%2Frss.2009.v.021) [[code]](https://github.com/avsegal/gicp)
 - Go-ICP: Solving 3D Registration Efficiently and Globally Optimally. ICCV'2013 [[paper]](http://jlyang.org/iccv13_go-icp.pdf) [[code]](https://github.com/yangjiaolong/Go-ICP)
+- Colored Point Cloud Registration Revisited. ICCV'2017 [[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Park_Colored_Point_Cloud_ICCV_2017_paper.pdf)
 - AA-ICP: Iterative Closest point with Anderson Acceleration. ICRA'2018 [[paper]](https://arxiv.org/abs/1709.05479#:~:text=Iterative%20Closest%20Point%20(ICP)%20is,performing%20scan%2Dmatching%20and%20registration.&text=This%20method%20is%20based%20on,fixed%20point%20of%20contractive%20mapping.)
 - Point Clouds Registration with Probabilistic Data Association. IROS'2016 [[paper]](https://github.com/ethz-asl/ipda/wiki/0383.pdf) [[code]](https://github.com/ethz-asl/robust_point_cloud_registration)
 - GH-ICP：Iterative Closest Point Algorithm with Global Optimal Matching and Hybrid Metric. 3DV'2018 [[paper]](https://ieeexplore.ieee.org/abstract/document/8490968) [[code]](https://github.com/YuePanEdward/GH-ICP)
 - NDT: The Normal Distributions Transform: A New Approach To Laser Scan Matching. IROS'2003 [[paper]](http://hdl.handle.net/10068/262019)
 - Best Buddies Registration for Point Clouds. ACCV'2020 [[paper]](https://openaccess.thecvf.com/content/ACCV2020/papers/Drory_Best_Buddies_Registration_for_Point_Clouds_ACCV_2020_paper.pdf)
 - Provably Approximated ICP. arxiv'2021 [[paper]](https://arxiv.org/pdf/2101.03588.pdf)
+
 
 ### Learning-based
 - DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration. ICCV'2019 [[paper]](https://arxiv.org/abs/1905.04153)
