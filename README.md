@@ -94,6 +94,7 @@ Survey:
 - Lepard: Learning partial point cloud matching in rigid and deformable scenes. CVPR'2022 [[paper]](https://arxiv.org/abs/2111.12591) [[code]](https://github.com/rabbityl/lepard)
 - Fast and Robust Registration of Partially Overlapping Point Clouds. RA-L'2021 [[paper]](https://arxiv.org/pdf/2112.09922.pdf) [[code]](https://github.com/eduardohenriquearnold/fastreg)
 - Geometric Transformer for Fast and Robust Point Cloud Registration. CVPR'2022 [[paper]](https://arxiv.org/abs/2202.06688) [[code]](https://github.com/qinzheng93/GeoTransformer)
+- ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs. SIGGRAPH'2022 [[paper]](https://arxiv.org/pdf/2207.00826.pdf)
 
  
 Survey:
@@ -184,7 +185,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2^D-Tree Representation. CVPR'2021 [[paper]](https://arxiv.org/pdf/2104.05328.pdf)
 - Deep Weighted Consensus (DWC) Dense correspondence confidence maps for 3D shape registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02714.pdf)
 - OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2103.00937.pdf)
-- FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2106.03479.pdf)
+- FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration. AAAI'2022 [[paper]](https://arxiv.org/pdf/2106.03479.pdf) [[code]](https://github.com/hxwork/FINet_Pytorch)
 - PointNetLK Revisited. CVPR'2021 [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_PointNetLK_Revisited_CVPR_2021_paper.pdf)
 - Point Cloud Registration using Representative Overlapping Points. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.02583.pdf) [[code]](https://github.com/zhulf0804/ROPNet)
 - Correspondence-Free Point Cloud Registration with SO(3)-Equivariant Implicit Shape Representations. arxiv'2021 [[paper]](https://arxiv.org/pdf/2107.10296.pdf)
@@ -241,6 +242,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - GenReg: Deep Generative Method for Fast Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.11783)
 - Multiway Non-rigid Point Cloud Registration via Learned Functional Map Synchronization. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12878)
 - DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration. BMVC'2021 [[paper]](https://arxiv.org/abs/2112.09938)
+- Deterministic Point Cloud Registration via Novel Transformation Decomposition. CVPR'2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)
 
 
 ## Fine Registration
