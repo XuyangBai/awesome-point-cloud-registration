@@ -202,8 +202,8 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Full Transformer Framework for Robust Point Cloud Registration with Deep Information Interaction. arxiv'2021 [[paper]](https://arxiv.org/pdf/2112.09385.pdf) [[code]](https://github.com/CGuangyan-BIT/DIT)
 - Reliable Inlier Evaluation for Unsupervised Point Cloud Registration. AAAI'2022 [[paper]](https://arxiv.org/pdf/2202.11292.pdf)
 - VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2203.13241.pdf)
-- REGTR: End-to-end Point Cloud Correspondences with Transformers. CVPR'2022 [[paper]]() [[code]](https://github.com/yewzijian/RegTR)
-
+- REGTR: End-to-end Point Cloud Correspondences with Transformers. CVPR'2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yew_REGTR_End-to-End_Point_Cloud_Correspondences_With_Transformers_CVPR_2022_paper.pdf) [[code]](https://github.com/yewzijian/RegTR)
+- UTOPIC: Uncertainty-aware Overlap Prediction Network for Partial Point Cloud Registration. CGF'2022 [[paper]](https://arxiv.org/pdf/2208.02712.pdf) [[code]](https://github.com/ZhileiChen99/UTOPIC)
 
 ### Randomized 
 
