@@ -167,6 +167,8 @@ Survey
 - CLIPPER A Graph-Theoretic Framework for Robust Data Association. arxiv'2020 [[paper]](https://arxiv.org/pdf/2011.10202.pdf)
 - PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency CVPR'2021 [[paper]](https://arxiv.org/abs/2103.05465) [[code]](https://github.com/XuyangBai/PointDSC)
 - Pairwise Point Cloud Registration Using Graph Matching and Rotation-invariant Features. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02151.pdf)
+- Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap. IROS'2023 [[paper]](https://arxiv.org/abs/2307.12116) [[code]](https://github.com/HKUST-Aerial-Robotics/Pagor)
+- G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model. arxiv'2023 [[paper]](https://arxiv.org/abs/2308.11573) [[code]](https://github.com/HKUST-Aerial-Robotics/G3Reg)
 
 
 ### End-to-End
@@ -280,6 +282,7 @@ The fine registration methods (or local registration) produce highly precise reg
 - [ModelNet](https://modelnet.cs.princeton.edu/)
 - [A Benchmark for Point Clouds Registration Algorithms](https://github.com/iralabdisco/point_clouds_registration_benchmark)
 - [WHU-TLS Benchmark](http://3s.whu.edu.cn/ybs/en/benchmark.htm)
+- [LiDAR-Registration-Benchmark](https://github.com/HKUST-Aerial-Robotics/LiDAR-Registration-Benchmark)
 
 
 ## Tools
