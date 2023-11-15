@@ -291,3 +291,7 @@ The fine registration methods (or local registration) produce highly precise reg
 - [Pytorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 - [PyTorch Points 3D](https://github.com/nicolas-chaulet/torch-points3d)
 - [probreg](https://github.com/neka-nat/probreg)
+- [HDMapping](https://github.com/MapsHD/HDMapping)
+
+## Benchmarks
+- [Benchmark of multi-view Terrestrial Laser Scanning Point Cloud data registration algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0263224123007637)
