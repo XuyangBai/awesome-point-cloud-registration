@@ -49,7 +49,6 @@ The feature-matching based registration algorithms generally follow a two-stage 
 - PREDATOR: Registration of 3D Point Clouds with Low Overlap. arxiv'2020 [[paper]](https://arxiv.org/pdf/2011.13005.pdf) [[code]](https://github.com/ShengyuH/OverlapPredator)
 - SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data. ICCV'2023 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zohaib_SC3K_Self-supervised_and_Coherent_3D_Keypoints_Estimation_from_Rotated_Noisy_ICCV_2023_paper.pdf) [[code]](https://github.com/IIT-PAVIS/SC3K)
 
-
 Survey:
 - Performance Evaluation of 3D Keypoint Detectors. IJCV'2013 [[paper]](https://doi.org/10.1007/s11263-012-0545-4)
 
@@ -97,11 +96,17 @@ Survey:
 - Geometric Transformer for Fast and Robust Point Cloud Registration. CVPR'2022 [[paper]](https://arxiv.org/abs/2202.06688) [[code]](https://github.com/qinzheng93/GeoTransformer)
 - ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs. SIGGRAPH'2022 [[paper]](https://arxiv.org/pdf/2207.00826.pdf)
 - Learning to Register Unbalanced Point Pairs. arxiv'2022 [[paper]](https://arxiv.org/abs/2207.04221)
+- RoReg: Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations. TPAMI'2023 [[paper]](https://ieeexplore.ieee.org/document/10044259) [[code]](https://github.com/HpWang-whu/RoReg)
+- BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration. CVPR'2023 [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Ao_BUFFER_Balancing_Accuracy_Efficiency_and_Generalizability_in_Point_Cloud_Registration_CVPR_2023_paper.html) [[code]](https://github.com/The-Learning-And-Vision-Atelier-LAVA/BUFFER)
+- Density-invariant Features for Distant Point Cloud Registration. ICCV'2023 [[paper]](https://arxiv.org/pdf/2307.09788) [[code]](https://github.com/liuQuan98/GCL)
+- RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration. TPAMI'2024 [[paper]](https://arxiv.org/pdf/2209.13252)
 
  
 Survey:
 - A Comprehensive Performance Evaluation of 3D Local Feature Descriptors. IJCV'2015 [[paper]](https://link.springer.com/article/10.1007/s11263-015-0824-y)
 - Evaluating Local Geometric Feature Representations for 3D Rigid Data Matching. ICIP'2019 [[paper]](https://arxiv.org/abs/1907.00233)
+- A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on
+Deep Learning. IJCAI' 2024 [[paper]](https://arxiv.org/pdf/2404.13830v1)
 
 #### Outlier Rejection
 
@@ -115,7 +120,7 @@ Survey:
 - In Search of Inliers: 3D Correspondence by Local and Global Voting. CVPR'2014 [[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Buch_In_Search_of_2014_CVPR_paper.pdf)
 - FGR: Fast Global Registration. ECCV'2016 [[paper]](https://vladlen.info/publications/fast-global-registration/) [[code]](https://github.com/intel-isl/FastGlobalRegistration)
 - Ranking 3D Feature Correspondences Via Consistency Voting. PRL'2019 [[paper]](https://doi.org/10.1016/j.patrec.2018.11.018)
-- An Accurate and Efficient Voting Scheme for a Maximally All-Inlier 3D Correspondence Set. TPAMI'2020 [[paper]](https://ieeexplore.ieee.org/ielx7/34/4359286/08955806.pdf) 
+- An Accurate and Efficient Voting Scheme for a Maximally All-Inlier 3D Correspondence Set. TPAMI'2020 [[paper]](https://ieeexplore.ieee.org/ielx7/34/4359286/08955806.pdf)
 - GORE: Guaranteed Outlier Removal for Point Cloud Registration with Correspondences. TPAMI'2018 [[paper]](https://arxiv.org/abs/1711.10209) [[code]](https://cs.adelaide.edu.au/~aparra/project/gore/)
 - A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates. RSS'2019 [[paper]](https://arxiv.org/abs/1903.08588)
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection. ICRA'2020 [[paper]](https://arxiv.org/abs/1909.08605)
@@ -127,6 +132,8 @@ Survey:
 - Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2202.10579.pdf)
 - A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments. ICRA'2022 [[paper]](https://arxiv.org/pdf/2203.06612.pdf) [[code]](https://github.com/url-kaist/quatro)
 - SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration. CVPR'2022 [[paper]](https://arxiv.org/abs/2203.14453) [[code]](https://github.com/ZhiChen902/SC2-PCR)
+- FastMAC: Stochastic Spectral Sampling of Correspondence Graph. CVPR'2024 [[paper]](https://arxiv.org/abs/2403.08770) [[code]](https://github.com/Forrest-110/FastMAC)
+- Scalable 3D Registration via Truncated Entry-wise Absolute Residuals. CVPR'2024 [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Scalable_3D_Registration_via_Truncated_Entry-wise_Absolute_Residuals_CVPR_2024_paper.pdf) [[code]](https://github.com/tyhuang98/TEAR-release)
 
 Learning based (including 2D outlier rejection methods)
 - Learning to Find Good Correspondences. CVPR'2018 [[paper]](https://arxiv.org/abs/1711.05971) [[code]](https://github.com/vcg-uvic/learned-correspondence-release)
@@ -147,6 +154,9 @@ Learning based (including 2D outlier rejection methods)
 - COTReg: Coupled Optimal Transport based Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2112.14381.pdf)
 - DetarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. AAAI'2022 [[paper]](https://arxiv.org/pdf/2112.14059.pdf) [[code]](https://github.com/ZhiChen902/DetarNet)
 - Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. CVPR'2022 [[paper]](https://arxiv.org/pdf/2111.14582.pdf) [[code]](https://github.com/SJTU-ViSYS/multi-instant-reg)
+- SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation. NeurIPS'2023 [[paper]](https://arxiv.org/pdf/2310.17359) [[code]](https://github.com/Jiang-HB/DiffusionReg)
+- Robust Outlier Rejection for 3D Registration with Variational Bayes. CVPR'2023 [[paper]](https://arxiv.org/pdf/2304.01514v1) [[code]](https://github.com/Jiang-HB/VBReg)
+- RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration. ICCV'2023 [[paper]](https://arxiv.org/pdf/2303.12384) [[code]](https://github.com/IRMVLab/RegFormer)
 
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
@@ -170,6 +180,8 @@ Survey
 - Pairwise Point Cloud Registration Using Graph Matching and Rotation-invariant Features. arxiv'2021 [[paper]](https://arxiv.org/pdf/2105.02151.pdf)
 - Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap. IROS'2023 [[paper]](https://arxiv.org/abs/2307.12116) [[code]](https://github.com/HKUST-Aerial-Robotics/Pagor)
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model. arxiv'2023 [[paper]](https://arxiv.org/abs/2308.11573) [[code]](https://github.com/HKUST-Aerial-Robotics/G3Reg)
+- SGHR: Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting. CVPR'2023 [[paper]](https://arxiv.org/abs/2304.00467) [[code]](https://github.com/WHU-USI3DV/SGHR)
+- 3D Registration with Maximal Cliques [[paper]](https://arxiv.org/pdf/2305.10854) [[code]](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)
 
 
 ### End-to-End
@@ -207,6 +219,7 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration. arxiv'2022 [[paper]](https://arxiv.org/pdf/2203.13241.pdf)
 - REGTR: End-to-end Point Cloud Correspondences with Transformers. CVPR'2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yew_REGTR_End-to-End_Point_Cloud_Correspondences_With_Transformers_CVPR_2022_paper.pdf) [[code]](https://github.com/yewzijian/RegTR)
 - UTOPIC: Uncertainty-aware Overlap Prediction Network for Partial Point Cloud Registration. CGF'2022 [[paper]](https://arxiv.org/pdf/2208.02712.pdf) [[code]](https://github.com/ZhileiChen99/UTOPIC)
+- Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature. 3DV' 2024 [[paper]](https://arxiv.org/pdf/2309.16023)
 
 ### Randomized 
 
@@ -247,6 +260,10 @@ Some papers perform end-to-end registration by directly predicting a rigid trans
 - Multiway Non-rigid Point Cloud Registration via Learned Functional Map Synchronization. arxiv'2021 [[paper]](https://arxiv.org/abs/2111.12878)
 - DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration. BMVC'2021 [[paper]](https://arxiv.org/abs/2112.09938)
 - Deterministic Point Cloud Registration via Novel Transformation Decomposition. CVPR'2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)
+-Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration. CVPR'2023 [[paper]](https://arxiv.org/pdf/2303.13290v1)
+- Rethinking Point Cloud Registration as Masking and Reconstruction. ICCV'2023 [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Rethinking_Point_Cloud_Registration_as_Masking_and_Reconstruction_ICCV_2023_paper.html) [[code]](https://github.com/cguangyan-bit/mra)
+- Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes. CVPR'2024 [[paper]](https://arxiv.org/abs/2404.04557)
+- Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension. CVPR'2024 [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Extend_Your_Own_Correspondences_Unsupervised_Distant_Point_Cloud_Registration_by_CVPR_2024_paper.html) [[code]](https://github.com/liuQuan98/EYOC)
 
 
 ## Fine Registration
